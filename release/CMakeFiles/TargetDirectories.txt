@@ -1,3 +1,0 @@
-D:/my-folder/documents/projects/C++/dev/ray-casting/release/CMakeFiles/ray-casting.dir
-D:/my-folder/documents/projects/C++/dev/ray-casting/release/CMakeFiles/edit_cache.dir
-D:/my-folder/documents/projects/C++/dev/ray-casting/release/CMakeFiles/rebuild_cache.dir
